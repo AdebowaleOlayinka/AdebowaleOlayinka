@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I am Olayinka Adebowale 
+
+## Data Analyst| Excel & PowerBI Enthusiast 
+
+### 🚀 About Me
 
 <!--
 **AdebowaleOlayinka/AdebowaleOlayinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
