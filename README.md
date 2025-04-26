@@ -15,6 +15,9 @@
   - 📂 **Data Handling**: Excel
   - 📊 **Data Visualization**: Excel, PowerBI
 
+### Educational Background 
+Studied Industrial Chemistry at Olabisi Onabanjo University 
+
  ## 📞 Lets Connect
  - LinkedIn:
  www.linkedin.com/in/olayinka-adebowale-8265aa2a5
