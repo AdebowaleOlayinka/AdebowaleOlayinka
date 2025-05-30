@@ -1,10 +1,10 @@
 ## Hi there 👋 I am Olayinka Adebowale 
 
-## Data Analyst| Excel & PowerBI Enthusiast 
+## Data Analyst| Excel |PowerBI |SQL
 
 ### 🚀 About Me
 
-🎯 I am passionate about transforming data into actionable insights. Skilled with tools like Excel and PowerBI to analyze data and tell story with dashboard and report. My goal is to help businesses make data driven decisions and improve their operations with wonderful reporting.
+🎯 I am passionate about transforming data into actionable insights. Skilled with tools like Excel,PowerBI and SQL to analyze data and tell story with dashboard and report. My goal is to help businesses make data driven decisions and improve their operations with wonderful reporting.
 
 ### 🔎 Area of Expertise 
 - **Data Cleaning and Preparation**: Using Excel (Power Query, Formulas, Pivot tables)
@@ -14,6 +14,7 @@
  ### 🔧 Tools 
   - 📂 **Data Handling**: Excel
   - 📊 **Data Visualization**: Excel, PowerBI
+  - **Data Base Management**: SQL Server
 
 ### Educational Background 
 Studied Industrial Chemistry at Olabisi Onabanjo University 
